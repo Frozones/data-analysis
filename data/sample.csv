@@ -1,0 +1,6 @@
+unit_id,read_speed,write_speed,status
+A01,120,110,PASS
+A02,118,109,PASS
+A03,95,90,FAIL
+A04,130,125,PASS
+A05,100,98,FAIL
