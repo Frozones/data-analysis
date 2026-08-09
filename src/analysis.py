@@ -11,7 +11,7 @@ print("\nFailed units:")
 print(failed)
 
 plt.hist(df["read_speed"], bins=5, edgecolor='black')
-plt.title("Read Speed Distribution (Updated)")
+plt.title("Read Speed Distribution - Version 1")
 plt.xlabel("Read Speed (MB/s)")
 plt.ylabel("Count")
 plt.show()
